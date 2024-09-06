@@ -7,3 +7,17 @@ git config --global user.email "enriquebaron27@hotmail.com"
 git config --global init.defaultBranch main
 
 git config --global --list
+
+----------------------------------------------------
+
+- To convert a directory into a Local Repository 
+    >> Initialize it with: git init
+
+----------------------------------------------------
+
+- Staging Area
+    >> Draft Space before committing files to the Local Repo
+
+- COMMIT
+    >> One Version of the project that is saved and identifiable
+       by a given name
