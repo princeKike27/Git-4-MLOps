@@ -1,0 +1,9 @@
+# GIT CONFIGURATION
+
+-- Configuration Variables related to settings
+
+git config --global user.name "kike27"
+git config --global user.email "enriquebaron27@hotmail.com"
+git config --global init.defaultBranch main
+
+git config --global --list
