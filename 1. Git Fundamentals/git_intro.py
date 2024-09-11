@@ -1,3 +1,3 @@
 print('Learning Git !!!', '\n')
-
-print('Committing to a new Branch')
+print('Committing to a new Branch', '\n')
+print('I\'m on dev branch .... :)')
