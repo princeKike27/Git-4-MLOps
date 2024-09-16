@@ -1,0 +1,39 @@
+# YAML example
+my-course: 'AWS DevOps Certification'
+version: 1.0
+price: 299
+is_public: true
+released_date: 2022-01-19
+pre_enroll: null
+category:
+ - AWS
+ - DevOps
+ - AWS Certification
+
+course_dev: ['murthy', 'kavya', 'nirwa']
+# Array of Objects
+dev_details: 
+  - name: 'murthy'
+    email: 'support@manifoldlearning.in'
+    role: 'author'
+  - name: 'kavya'
+    email: 'ka_support@manifoldlearning.in'
+    role: 'co-author'
+  - name: 'nirnay'
+    email: 'ni_support@manifoldlearning.in'
+    role: 'editor'
+  # or 
+  - {name: 'navishka', email: 'navi@mani.in', role: 'finance'}
+
+# multi-line string
+short_description: >
+ This is a course for 
+ AWS DevOps Professional
+ Certification
+
+# or
+detailed_description: |
+ This course has been
+ created with the collaboration
+ of industry experts.
+ We hope you like it.
