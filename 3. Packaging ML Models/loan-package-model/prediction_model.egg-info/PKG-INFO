@@ -1,0 +1,65 @@
+Metadata-Version: 2.1
+Name: prediction_model
+Version: 1.0.0
+Summary: Loan Prediction Model
+Home-page: https://github.com/princeKike27/Git-4-MLOps
+Author: Enrique BG
+Author-email: enriquebaron27@hotmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.7.0
+Description-Content-Type: text/markdown
+Requires-Dist: numpy==1.24.3
+Requires-Dist: pandas==1.5.3
+Requires-Dist: joblib==1.2.0
+Requires-Dist: scikit-learn==1.2.2
+Requires-Dist: scipy==1.10.1
+Requires-Dist: setuptools==67.8.0
+Requires-Dist: wheel==0.38.4
+Requires-Dist: pytest==8.3.3
+
+
+## Directory structure
+
+```bash
+prediction_model
+
+
+├── MANIFEST.in
+├── prediction_model
+│   ├── config
+│   │   ├── config.py
+│   │   └── __init__.py
+│   ├── datasets
+│   │   ├── __init__.py
+│   │   ├── test.csv
+│   │   └── train.csv
+│   ├── __init__.py
+│   ├── pipeline.py
+│   ├── predict.py
+│   ├── processing
+│   │   ├── data_handling.py
+│   │   ├── __init__.py
+│   │   └── preprocessing.py
+│   ├── trained_models
+│   │   ├── classification.pkl
+│   │   └── __init__.py
+│   ├── training_pipeline.py
+│   └── VERSION
+├── README.md
+├── requirements.txt
+├── setup.py
+└── tests
+    ├── pytest.ini
+    └── test_prediction.py
+```
+<br>
+
+1. Start by executing the training_pipeline.py
+
+2. Then predict.py

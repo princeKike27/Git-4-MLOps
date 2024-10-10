@@ -10,7 +10,7 @@ NAME = 'prediction_model'
 DESCRIPTION = 'Loan Prediction Model'
 URL = 'https://github.com/princeKike27/Git-4-MLOps'
 EMAIL = 'enriquebaron27@hotmail.com'
-AUTHOR = 'Enrique BG'
+AUTHOR = 'Kike1027'
 REQUIRES_PYTHON = '>=3.7.0'
 
 # print working directory
@@ -46,7 +46,7 @@ with open(PACKAGE_DIR / 'VERSION') as f:
 
 
 # SETUP dict 
-setup = (
+setup(
     name=NAME,
     version=about['__version__'],
     description=DESCRIPTION,
