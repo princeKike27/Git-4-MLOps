@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gomeze82/OneDrive%20-%20Medtronic%20PLC/MLOps/5.%20MLflow/mlruns/0/2706e3ab044742039d6ae8c8879473c3/artifacts
+end_time: 1729009804187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2706e3ab044742039d6ae8c8879473c3
+run_name: Example Demo27
+run_uuid: 2706e3ab044742039d6ae8c8879473c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729009804086
+status: 3
+tags: []
+user_id: gomeze82

@@ -6,7 +6,7 @@ from pathlib import Path
 from setuptools import find_packages, setup 
 
 # Metadata of package 
-NAME = 'prediction_model'
+NAME = 'prediction_model_kike27'
 DESCRIPTION = 'Loan Prediction Model'
 URL = 'https://github.com/princeKike27/Git-4-MLOps'
 EMAIL = 'enriquebaron27@hotmail.com'

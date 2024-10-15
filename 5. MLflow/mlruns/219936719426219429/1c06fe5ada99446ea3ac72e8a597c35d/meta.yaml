@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gomeze82/OneDrive%20-%20Medtronic%20PLC/MLOps/5.%20MLflow/mlruns/219936719426219429/1c06fe5ada99446ea3ac72e8a597c35d/artifacts
+end_time: 1729011091418
+entry_point_name: ''
+experiment_id: '219936719426219429'
+lifecycle_stage: active
+run_id: 1c06fe5ada99446ea3ac72e8a597c35d
+run_name: glamorous-hare-233
+run_uuid: 1c06fe5ada99446ea3ac72e8a597c35d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729011091293
+status: 3
+tags: []
+user_id: gomeze82
