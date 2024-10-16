@@ -30,7 +30,7 @@ def main(input1, input2):
         # make dir
         os.makedirs('ex_27', exist_ok=True)
 
-        # create file and open it n write mode
+        # create file and open it in write mode
         with open('ex_27/example_27.txt', 'wt') as f:
             f.write(f'Artifact created at: {time.asctime()}') 
 
