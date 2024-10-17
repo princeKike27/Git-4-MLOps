@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gomeze82/OneDrive%20-%20Medtronic%20PLC/MLOps/5.%20MLflow/mlruns/646004250366638569/f855aafddff7429c96f8465467d6110c/artifacts
+end_time: 1729207664432
+entry_point_name: ''
+experiment_id: '646004250366638569'
+lifecycle_stage: active
+run_id: f855aafddff7429c96f8465467d6110c
+run_name: smiling-squid-25
+run_uuid: f855aafddff7429c96f8465467d6110c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729207660198
+status: 3
+tags: []
+user_id: gomeze82

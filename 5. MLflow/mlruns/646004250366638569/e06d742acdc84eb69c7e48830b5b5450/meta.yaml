@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/gomeze82/OneDrive%20-%20Medtronic%20PLC/MLOps/5.%20MLflow/mlruns/646004250366638569/e06d742acdc84eb69c7e48830b5b5450/artifacts
+deleted_time: 1729207679709
+end_time: 1729207160899
+entry_point_name: ''
+experiment_id: '646004250366638569'
+lifecycle_stage: deleted
+run_id: e06d742acdc84eb69c7e48830b5b5450
+run_name: suave-shad-258
+run_uuid: e06d742acdc84eb69c7e48830b5b5450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729207158728
+status: 4
+tags: []
+user_id: gomeze82

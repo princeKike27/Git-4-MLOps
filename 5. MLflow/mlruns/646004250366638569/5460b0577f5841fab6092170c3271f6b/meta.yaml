@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gomeze82/OneDrive%20-%20Medtronic%20PLC/MLOps/5.%20MLflow/mlruns/646004250366638569/5460b0577f5841fab6092170c3271f6b/artifacts
+end_time: 1729207660175
+entry_point_name: ''
+experiment_id: '646004250366638569'
+lifecycle_stage: active
+run_id: 5460b0577f5841fab6092170c3271f6b
+run_name: gentle-fowl-695
+run_uuid: 5460b0577f5841fab6092170c3271f6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729207650779
+status: 3
+tags: []
+user_id: gomeze82
