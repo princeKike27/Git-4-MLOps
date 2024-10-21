@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gomeze82/OneDrive%20-%20Medtronic%20PLC/MLOps/5.%20MLflow/mlruns/743822439868966217/55d2e35d9d604d26b8c5bc49f79165e0/artifacts
+end_time: 1729529684228
+entry_point_name: ''
+experiment_id: '743822439868966217'
+lifecycle_stage: active
+run_id: 55d2e35d9d604d26b8c5bc49f79165e0
+run_name: enchanting-wasp-242
+run_uuid: 55d2e35d9d604d26b8c5bc49f79165e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729529679955
+status: 3
+tags: []
+user_id: gomeze82

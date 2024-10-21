@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gomeze82/OneDrive%20-%20Medtronic%20PLC/MLOps/5.%20MLflow/mlruns/230869592463188793/0c2c117b96bc449b99df2e6df7fe339b/artifacts
+end_time: 1729529432713
+entry_point_name: ''
+experiment_id: '230869592463188793'
+lifecycle_stage: active
+run_id: 0c2c117b96bc449b99df2e6df7fe339b
+run_name: fun-panda-743
+run_uuid: 0c2c117b96bc449b99df2e6df7fe339b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729529427231
+status: 3
+tags: []
+user_id: gomeze82

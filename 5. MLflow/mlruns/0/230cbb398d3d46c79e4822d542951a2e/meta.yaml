@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/230cbb398d3d46c79e4822d542951a2e/artifacts
+deleted_time: 1729530078230
+end_time: 1729529800999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 230cbb398d3d46c79e4822d542951a2e
+run_name: unequaled-koi-323
+run_uuid: 230cbb398d3d46c79e4822d542951a2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729529796429
+status: 4
+tags: []
+user_id: gomeze82

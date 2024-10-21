@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gomeze82/OneDrive%20-%20Medtronic%20PLC/MLOps/5.%20MLflow/mlruns/230869592463188793/3116be3acbbd47348243db98777fbafb/artifacts
+end_time: 1729529427205
+entry_point_name: ''
+experiment_id: '230869592463188793'
+lifecycle_stage: active
+run_id: 3116be3acbbd47348243db98777fbafb
+run_name: nosy-croc-829
+run_uuid: 3116be3acbbd47348243db98777fbafb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729529419375
+status: 3
+tags: []
+user_id: gomeze82

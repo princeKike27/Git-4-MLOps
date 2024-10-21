@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/99d8fe1333324b84841918b9b03a2e7b/artifacts
+deleted_time: 1729530078231
+end_time: 1729529772113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 99d8fe1333324b84841918b9b03a2e7b
+run_name: marvelous-stoat-826
+run_uuid: 99d8fe1333324b84841918b9b03a2e7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729529766490
+status: 4
+tags: []
+user_id: gomeze82

@@ -1,6 +1,6 @@
-artifact_location: file:///C:/Users/gomeze82/OneDrive%20-%20Medtronic%20PLC/MLOps/5.%20MLflow/mlruns/0
-creation_time: 1729009743608
+artifact_location: mlflow-artifacts:/0
+creation_time: 1729529239071
 experiment_id: '0'
-last_update_time: 1729009743608
+last_update_time: 1729529239071
 lifecycle_stage: active
 name: Default

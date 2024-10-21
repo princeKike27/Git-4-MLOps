@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gomeze82/OneDrive%20-%20Medtronic%20PLC/MLOps/5.%20MLflow/mlruns/894689562136252058/ceabe8d724d14fae98d30033cbf5472d/artifacts
+end_time: 1729529544545
+entry_point_name: ''
+experiment_id: '894689562136252058'
+lifecycle_stage: active
+run_id: ceabe8d724d14fae98d30033cbf5472d
+run_name: enthused-gnu-81
+run_uuid: ceabe8d724d14fae98d30033cbf5472d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729529544429
+status: 3
+tags: []
+user_id: gomeze82

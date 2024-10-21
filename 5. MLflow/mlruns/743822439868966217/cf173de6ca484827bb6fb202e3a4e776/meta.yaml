@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gomeze82/OneDrive%20-%20Medtronic%20PLC/MLOps/5.%20MLflow/mlruns/743822439868966217/cf173de6ca484827bb6fb202e3a4e776/artifacts
+end_time: 1729529588271
+entry_point_name: ''
+experiment_id: '743822439868966217'
+lifecycle_stage: active
+run_id: cf173de6ca484827bb6fb202e3a4e776
+run_name: kindly-toad-686
+run_uuid: cf173de6ca484827bb6fb202e3a4e776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729529583266
+status: 3
+tags: []
+user_id: gomeze82
