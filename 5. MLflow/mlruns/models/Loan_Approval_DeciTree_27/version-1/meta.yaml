@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1729616009524
+current_stage: Production
+description: ''
+last_updated_timestamp: 1729616092759
+name: Loan_Approval_DeciTree_27
+run_id: 64ddac336e734630b0a4b830a85dbf01
+run_link: ''
+source: file:///C:/Users/gomeze82/OneDrive%20-%20Medtronic%20PLC/MLOps/5.%20MLflow/mlruns/230869592463188793/64ddac336e734630b0a4b830a85dbf01/artifacts/DecisionTreeClassifier
+status: READY
+status_message: null
+user_id: null
+version: 1
